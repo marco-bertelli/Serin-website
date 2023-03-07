@@ -2,7 +2,7 @@
 Responsive Car Shop Website along with Html5, CSS3, JavaScript <br><br>
    
 ## Live Site
-[Project URL: https://mynext-car.web.app/](https://mynext-car.web.app/)
+[Project URL: https://serin-website.vercel.app/](https://serin-website.vercel.app/)
 
  ## Overview
  Sito vetrina per venditori di macchine
